@@ -1,0 +1,4 @@
+endpoint: ${env:PRISMA_ENDPOINT}
+# endpoint: https://polariscon-graphql-319800c843.herokuapp.com/polariscon/prod
+datamodel: datamodel.prisma
+secret: prismasecret
